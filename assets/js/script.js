@@ -8,9 +8,9 @@ about.onclick = function() {
 };
 portfolio.onclick = function() {
     console.log("button clicked!")
-    location.href = "./portfolio.html"
+    location.href = "./pages/portfolio.html"
 };
 contact.onclick = function() {
     console.log("button clicked!")
-    location.href = "./contact.html"
+    location.href = "./pages/contact.html"
 };
