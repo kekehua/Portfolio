@@ -15,4 +15,4 @@ Viewing the pages is as simple as going to the deployed link below!
 
 ## Links
 - [GitHub repository](https://github.com/kekehua/Portfolio)
-- [Deployed application]()
+- [Deployed application]( https://kekehua.github.io/Portfolio/)
