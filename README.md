@@ -14,5 +14,5 @@ Key technologies and npm packages used in this project:
 Viewing the pages is as simple as going to the deployed link below!
 
 ## Links
-- [GitHub repository]()
+- [GitHub repository](https://github.com/kekehua/Portfolio)
 - [Deployed application]()
